@@ -1,7 +1,7 @@
 {
   "articulos": [
     {
-      "id": "msi",
+      "artId": "msi",
       "name": "PC de escritorio: MSI",
       "price": 155000,
       "cat": "desktop",
@@ -9,7 +9,7 @@
       "desc": "Procesador I5 de ultima generacion, con 16gb de RAM."
     },
     {
-      "id": "asus",
+      "artId": "asus",
       "name": "PC de escritorio: Asus ROG",
       "price": 200000,
       "cat": "desktop",
@@ -17,7 +17,7 @@
       "desc": "Procesador i7 de ultima generacion, con 32gb de RAM."
     },
     {
-      "id": "aorus",
+      "artId": "aorus",
       "name": "PC de escritorio: Gigabyte Aorus",
       "price": 270000,
       "cat": "desktop",
@@ -25,7 +25,7 @@
       "desc": "Procesador i9 de ultima generacion, con 32gb de RAM."
     },
     {
-      "id": "hp",
+      "artId": "hp",
       "name": "Notebook HP Omen",
       "price": 182500,
       "cat": "notebooks",
@@ -33,7 +33,7 @@
       "desc": "Agil y compacta para trabajar y jugar."
     },
     {
-      "id": "alienware",
+      "artId": "alienware",
       "name": "Notebook AlienWare",
       "price": 330850,
       "cat": "notebooks",
@@ -41,7 +41,7 @@
       "desc": "Portatil echo para el gaming, con las ultimas tecnologias."
     },
     {
-      "id": "samsung",
+      "artId": "samsung",
       "name": "Monitor Samsung",
       "price": 22000,
       "cat": "monitors",
@@ -49,7 +49,7 @@
       "desc": "Monitor full HD y 60hz de refresco."
     },
     {
-      "id": "viewsonic",
+      "artId": "viewsonic",
       "name": "Monitor ViewSonic 144HZ",
       "price": 39000,
       "cat": "monitors",
@@ -57,7 +57,7 @@
       "desc": "Monitor full HD y 144hz de refresco."
     },
     {
-      "id": "hyperx",
+      "artId": "hyperx",
       "name": "Headset HyperX",
       "price": 11300,
       "cat": "headsets",
@@ -65,7 +65,7 @@
       "desc": "Sonido envolvente 7.1, y gran calidad de micrófono."
     },
     {
-      "id": "razer",
+      "artId": "razer",
       "name": "Headset Razer",
       "price": 15000,
       "cat": "headsets",
@@ -73,7 +73,7 @@
       "desc": "Sonido 7.1 junto a gran calidad de micrófono y construcción."
     },
     {
-      "id": "logitech",
+      "artId": "logitech",
       "name": "Headset Logitech",
       "price": 13000,
       "cat": "headsets",
@@ -81,7 +81,7 @@
       "desc": "Sonido de gran calidad y micrófono excelente."
     },
     {
-      "id": "asusTuf",
+      "artId": "asusTuf",
       "name": "Monitor Asus TUF 144hz",
       "price": 71600,
       "cat": "monitors",
