@@ -6,7 +6,8 @@
       "price": 155000,
       "cat": "desktop",
       "stock": 3,
-      "desc": "Procesador I5 de ultima generacion, con 16gb de RAM."
+      "desc": "Procesador I5 de ultima generacion, con 16gb de RAM.",
+      "inCart" : 1
     },
     {
       "id": "asus",
@@ -15,6 +16,7 @@
       "cat": "desktop",
       "stock": 2,
       "desc": "Procesador i7 de ultima generacion, con 32gb de RAM."
+      "inCart" : 1
     },
     {
       "id": "aorus",
@@ -23,6 +25,7 @@
       "cat": "desktop",
       "stock": 2,
       "desc": "Procesador i9 de ultima generacion, con 32gb de RAM."
+      "inCart" : 1
     },
     {
       "id": "hp",
@@ -31,6 +34,7 @@
       "cat": "notebooks",
       "stock": 4,
       "desc": "Agil y compacta para trabajar y jugar."
+      "inCart" : 1
     },
     {
       "id": "alienware",
@@ -39,6 +43,7 @@
       "cat": "notebooks",
       "stock": 1,
       "desc": "Portatil echo para el gaming, con las ultimas tecnologias."
+      "inCart" : 1
     },
     {
       "id": "samsung",
@@ -47,6 +52,7 @@
       "cat": "monitors",
       "stock": 3,
       "desc": "Monitor full HD y 60hz de refresco."
+      "inCart" : 1
     },
     {
       "id": "viewsonic",
@@ -55,6 +61,7 @@
       "cat": "monitors",
       "stock": 3,
       "desc": "Monitor full HD y 144hz de refresco."
+      "inCart" : 1
     },
     {
       "id": "hyperx",
@@ -63,6 +70,7 @@
       "cat": "headsets",
       "stock": 5,
       "desc": "Sonido envolvente 7.1, y gran calidad de micrófono."
+      "inCart" : 1
     },
     {
       "id": "razer",
@@ -71,6 +79,7 @@
       "cat": "headsets",
       "stock": 6,
       "desc": "Sonido 7.1 junto a gran calidad de micrófono y construcción."
+      "inCart" : 1
     },
     {
       "id": "logitech",
@@ -79,6 +88,7 @@
       "cat": "headsets",
       "stock": 3,
       "desc": "Sonido de gran calidad y micrófono excelente."
+      "inCart" : 1
     },
     {
       "id": "asusTuf",
@@ -87,6 +97,7 @@
       "cat": "monitors",
       "stock": 4,
       "desc": "Pantalla curva con 144hz de refresco y panel VA de alta calidad"
+      "inCart" : 1
     }
   ]
 }
