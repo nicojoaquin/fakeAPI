@@ -8,6 +8,7 @@
       "stock": 3,
       "desc": "Procesador I5 de ultima generacion, con 16gb de RAM.",
       "inCart" : 0
+
     },
     {
       "id": "asus",
@@ -17,6 +18,7 @@
       "stock": 2,
       "desc": "Procesador i7 de ultima generacion, con 32gb de RAM.",
       "inCart" : 0
+
     },
     {
       "id": "aorus",
@@ -26,6 +28,7 @@
       "stock": 2,
       "desc": "Procesador i9 de ultima generacion, con 32gb de RAM.",
       "inCart" : 0
+
     },
     {
       "id": "hp",
@@ -35,6 +38,7 @@
       "stock": 4,
       "desc": "Agil y compacta para trabajar y jugar.",
       "inCart" : 0
+
     },
     {
       "id": "alienware",
@@ -44,6 +48,7 @@
       "stock": 1,
       "desc": "Portatil echo para el gaming, con las ultimas tecnologias.",
       "inCart" : 0
+
     },
     {
       "id": "samsung",
@@ -53,6 +58,7 @@
       "stock": 3,
       "desc": "Monitor full HD y 60hz de refresco.",
       "inCart" : 0
+
     },
     {
       "id": "viewsonic",
@@ -72,6 +78,7 @@
       "stock": 5,
       "desc": "Sonido envolvente 7.1, y gran calidad de micrófono.",
       "inCart" : 0
+
     },
     {
       "id": "razer",
@@ -81,6 +88,7 @@
       "stock": 6,
       "desc": "Sonido 7.1 junto a gran calidad de micrófono y construcción.",
       "inCart" : 0
+
     },
     {
       "id": "logitech",
@@ -90,6 +98,7 @@
       "stock": 3,
       "desc": "Sonido de gran calidad y micrófono excelente.",
       "inCart" : 0
+
     },
     {
       "id": "asusTuf",
