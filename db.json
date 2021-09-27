@@ -8,7 +8,7 @@
       "stock": 3,
       "desc": "Procesador I5 de ultima generacion, con 16gb de RAM.",
       "inCart" : 0,
-      "itemTotal": this.price * this.inCart
+      "itemTotal": price * inCart
 
     },
     {
