@@ -8,7 +8,6 @@
       "stock": 3,
       "desc": "Procesador I5 de ultima generacion, con 16gb de RAM.",
       "inCart" : 0
-
     },
     {
       "id": "asus",
@@ -107,7 +106,7 @@
       "cat": "monitors",
       "stock": 4,
       "desc": "Pantalla curva con 144hz de refresco y panel VA de alta calidad",
-      "inCart" : 0t
+      "inCart" : 0
 
     }
   ]
