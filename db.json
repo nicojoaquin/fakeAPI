@@ -38,7 +38,7 @@
       "stock": 4,
       "desc": "Agil y compacta para trabajar y jugar.",
       "inCart" : 0
-      "itemTotal" :  this.price * this.inCart
+      "itemTotal" : this.price * this.inCart
     },
     {
       "id": "alienware",
@@ -58,7 +58,7 @@
       "stock": 3,
       "desc": "Monitor full HD y 60hz de refresco.",
       "inCart" : 0
-      "itemTotal" :  this.price * this.inCart
+      "itemTotal" : this.price * this.inCart
     },
     {
       "id": "viewsonic",
@@ -98,7 +98,7 @@
       "stock": 3,
       "desc": "Sonido de gran calidad y micrófono excelente.",
       "inCart" : 0
-      "itemTotal" :  this.price * this.inCart
+      "itemTotal" : this.price * this.inCart
     },
     {
       "id": "asusTuf",
@@ -108,7 +108,7 @@
       "stock": 4,
       "desc": "Pantalla curva con 144hz de refresco y panel VA de alta calidad",
       "inCart" : 0
-      "itemTotal" : 0 this.price * this.inCart
+      "itemTotal" : this.price * this.inCart
     }
   ]
 }
