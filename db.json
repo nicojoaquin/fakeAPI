@@ -7,8 +7,7 @@
       "cat": "desktop",
       "stock": 3,
       "desc": "Procesador I5 de ultima generacion, con 16gb de RAM.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -18,8 +17,7 @@
       "cat": "desktop",
       "stock": 2,
       "desc": "Procesador i7 de ultima generacion, con 32gb de RAM.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -29,8 +27,7 @@
       "cat": "desktop",
       "stock": 2,
       "desc": "Procesador i9 de ultima generacion, con 32gb de RAM.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -40,8 +37,7 @@
       "cat": "notebooks",
       "stock": 4,
       "desc": "Agil y compacta para trabajar y jugar.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -51,8 +47,7 @@
       "cat": "notebooks",
       "stock": 1,
       "desc": "Portatil echo para el gaming, con las ultimas tecnologias.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -62,8 +57,7 @@
       "cat": "monitors",
       "stock": 3,
       "desc": "Monitor full HD y 60hz de refresco.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -73,8 +67,7 @@
       "cat": "monitors",
       "stock": 3,
       "desc": "Monitor full HD y 144hz de refresco.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
  
     },
     {
@@ -84,8 +77,7 @@
       "cat": "headsets",
       "stock": 5,
       "desc": "Sonido envolvente 7.1, y gran calidad de micrófono.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -95,8 +87,7 @@
       "cat": "headsets",
       "stock": 6,
       "desc": "Sonido 7.1 junto a gran calidad de micrófono y construcción.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -106,8 +97,7 @@
       "cat": "headsets",
       "stock": 3,
       "desc": "Sonido de gran calidad y micrófono excelente.",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0
 
     },
     {
@@ -117,8 +107,7 @@
       "cat": "monitors",
       "stock": 4,
       "desc": "Pantalla curva con 144hz de refresco y panel VA de alta calidad",
-      "inCart" : 0,
-      "itemTotal": price * inCart
+      "inCart" : 0t
 
     }
   ]
