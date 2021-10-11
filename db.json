@@ -109,38 +109,5 @@
       "desc": "Pantalla curva con 144hz de refresco y panel VA de alta calidad",
       "inCart" : 0
     }
-  ],
-  
-  "heroes": [
-    {
-      "id": 1,
-      "name": "Batman",
-      "img": "https://i1.wp.com/hipertextual.com/wp-content/uploads/2021/05/the-batman-scaled.jpeg?fit=2560%2C1440&ssl=1"
-    },
-    {
-      "id": 2,
-      "name": "Superman",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/superman-and-lois-tyler-hoechlin-1607605148.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Iron-Man",
-      "img": "https://www.tonica.la/__export/1599939641284/sites/debate/img/2020/09/12/iron-man-fortnite.jpg_423682103.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Hulk",
-      "img": "https://www.enter.co/wp-content/uploads/2017/10/maxresdefault-1-1.jpg"
-    }, 
-    {
-      "id": 5,
-      "name": "Flash",
-      "img":  "https://i.ytimg.com/vi/wnGiBWVtqxE/maxresdefault.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Spiderman",
-      "img": "https://as.com/meristation/imagenes/2020/09/30/noticias/1601498876_582320_1601498920_noticia_normal.jpg"
-    }
-  ]
+  ]  
 }
